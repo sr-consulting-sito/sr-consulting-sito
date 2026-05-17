@@ -12,9 +12,5 @@
     "framer-motion": "latest",
     "lucide-react": "latest"
   },
-  "devDependencies": {
-    "tailwindcss": "latest",
-    "postcss": "latest",
-    "autoprefixer": "latest"
-  }
+  "devDependencies": {}
 }
